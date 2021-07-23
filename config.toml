@@ -1,0 +1,6 @@
+server_list_file="knownpeers.sql"
+
+bootstrap_nodes=[
+	"X.X.X.X", 
+	"Y.Y.Y.Y",
+]
